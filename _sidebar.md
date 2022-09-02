@@ -1,5 +1,9 @@
+- System overview
+    - [Dual-way SISO system](/)
+    - [PHY specifications](phy.md)
+    - [Hardware](hardware.md)
+
 - SISO2
-    - [Overview](/)
     - [Prepare](prepare.md)
     - [Setup and Build](setup.md)
     - [Usage: Host (USRP)](usage-host.md)

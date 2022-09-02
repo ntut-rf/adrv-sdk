@@ -1,3 +1,3 @@
-# System Overview
+# Dual-way SISO system
 
-![](system.png)
+![](hardware.png)
