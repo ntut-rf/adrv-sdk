@@ -6,8 +6,8 @@
 $ sudo apt install git gcc make cmake ccache rsync \
     libfmt-dev libspdlog-dev libyaml-cpp-dev \
     gnuradio-dev libuhd-dev uhd-host \
-    libprotobuf-dev libprotoc-dev protobuf-compiler nodejs npm \
-    libgtk-3-dev libwebkit2gtk-4.0-dev \
+    libprotobuf-dev libprotoc-dev protobuf-compiler nodejs npm nlohmann-json-dev \
+    libgtk-3-dev libwebkit2gtk-4.0-dev
 ```
 
 <!-- slide:break -->
