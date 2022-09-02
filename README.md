@@ -1,1 +1,3 @@
-# Overview
+# System Overview
+
+![](system.png)
