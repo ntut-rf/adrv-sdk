@@ -1,5 +1,3 @@
 # Dual-way SISO system
 
-## SDK Version: 20230216
-
-![](system.png)
+## SDK Version: 20230317
